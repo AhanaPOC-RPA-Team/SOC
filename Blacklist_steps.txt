@@ -1,0 +1,26 @@
+Steps for Blocking in Firewall
+
+
+1. Login to the Firewall Website
+     To login, private IP Address is https://172.16.20.1/
+      And public IP Address is https://14.99.4.242/
+
+2.  Provide credentials.
+     Username-password
+
+3. Click 'policy&objects' option in Firewall
+
+ 	a.	Choose 'addresses' option 
+	b.	Click on '+CreateNew' to create new address
+	c.	Add name & IP address with Subnet mask 32
+   		For Example:    
+  		In IP/Netmask-(IP address)  -  (1.1.1.1/32)
+   		Click on OK
+	d.	Go to 'Address group'
+    		There are multiple groups in it.	
+	e.	Choose 'Blacklisted_IP_Group'
+
+4. Under 'Member' add IP address that have been created by us
+
+5. Click on OK
+

@@ -1,0 +1,63 @@
+Hi Team, 
+
+A new ticket #2201933 has been created
+
+New Comment
+
+Hello Team, We have observed an alert "Ahana Firewall Communication From Blacklisted IP "
+
+Details of the ticket are as follows:
+
+Ticket Name
+
+Ahana Firewall Communication From Blacklisted IP
+
+Assigned To
+
+Ahana SOC Support
+
+Category
+
+DoS and Network Attacks
+
+Priority
+
+Low
+
+Created Date
+
+15-Jun-2022 15:27:03 UTC
+
+ 
+
+ 
+
+The ticket consists of 1 alert(s). Details of the first alert are as follows: 
+
+Device Details 
+
+Source 
+
+Destination
+
+IP Address 
+
+199.40.206.189
+
+192.168.17.36
+
+Host Name
+
+-
+
+18.136.221.118
+
+Port
+
+50088
+
+8004
+
+ 
+
+ 
